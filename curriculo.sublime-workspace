@@ -1,0 +1,2151 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"read",
+				"ready\t$(document).ready"
+			],
+			[
+				"fw",
+				"fw-b\tfont-weight: bold;"
+			],
+			[
+				"fs-",
+				"fs-n\tfont-style: normal;"
+			],
+			[
+				"bgr",
+				"bgr-y\tbackground-repeat: repeat-y;"
+			],
+			[
+				"pos",
+				"pos-f\tposition: fixed;"
+			],
+			[
+				"rgb",
+				"rgba\trgba()"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"cir",
+				"circular-progress\t(_estilos.scss)"
+			],
+			[
+				"middle",
+				"middle-lg\t(estilos.min.css)"
+			],
+			[
+				"mod",
+				"modal-title"
+			],
+			[
+				"cn",
+				"center-lg"
+			],
+			[
+				"col-lg",
+				"col-lg-"
+			],
+			[
+				"cen",
+				"center-lg"
+			],
+			[
+				"las",
+				"last-xs\t(estilos.min.css)"
+			],
+			[
+				"mix",
+				"mixin\t@mixin"
+			],
+			[
+				"inclu",
+				"include\t@include"
+			],
+			[
+				"in",
+				"include\t@include"
+			],
+			[
+				"mi",
+				"mixin\t@mixin"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"nav",
+				"nav"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"docu",
+				"document\t{}"
+			],
+			[
+				"d",
+				"document\t{}"
+			],
+			[
+				"wi",
+				"window\t{}"
+			],
+			[
+				"w",
+				"when\t$.when()"
+			],
+			[
+				"pb",
+				"bgcp-pb\tbackground-clip: padding-box;"
+			],
+			[
+				"bgo",
+				"bgo-bb\tbackground-origin: border-box;"
+			],
+			[
+				"bgcp",
+				"bgcp-bb\tbackground-clip: border-box;"
+			],
+			[
+				"drow",
+				"dropdown-menu\t bootstrap.min.css"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"navbar-",
+				"navbar-default\t bootstrap-theme.min.css"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"btn-",
+				"btn-danger"
+			],
+			[
+				"cont",
+				"container\t bootstrap.min.css"
+			],
+			[
+				"bs3-te",
+				"bs3-template:html5\tbs3-html5-template"
+			],
+			[
+				"bs3",
+				"bs3-local\tbs3-local"
+			],
+			[
+				"bs3-co",
+				"bs3-container\tbs3-container"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"bs3-lg",
+				"bs3-lg-button:danger\tbs3-lg-button-danger"
+			],
+			[
+				"bs3-aler",
+				"bs3-alert:danger\tbs3-alert-danger"
+			],
+			[
+				"bs3-input",
+				"bs3-input:label\tbs3-input-label"
+			],
+			[
+				"bs3-c",
+				"bs3-col:4\tbs3-col-4"
+			],
+			[
+				"bs3te",
+				"bs3-template:html5\tbs3-html5-template"
+			],
+			[
+				"txt",
+				"txt_sp_small\tilorem_txt_sp_small"
+			],
+			[
+				"nava",
+				"navbar"
+			],
+			[
+				"navar",
+				"navbar-default\t bootstrap.min.css"
+			],
+			[
+				"col-md",
+				"col-md-4\t bootstrap.min.css"
+			],
+			[
+				"hed",
+				"header\tTag"
+			],
+			[
+				"btn",
+				"btn-info\t bootstrap-theme.min.css"
+			],
+			[
+				"modal",
+				"modal-title\t bootstrap.min.css"
+			],
+			[
+				"mo",
+				"modal-title\t bootstrap.min.css"
+			],
+			[
+				"model",
+				"modal-header\t bootstrap.min.css"
+			],
+			[
+				"we",
+				"well\t bootstrap.min.css"
+			],
+			[
+				"list-group-item-",
+				"list-group-item-text\t bootstrap.min.css"
+			],
+			[
+				"lista",
+				"list-group-item-danger\t bootstrap.min.css"
+			],
+			[
+				"dis",
+				"disabled\t bootstrap-theme.min.css"
+			],
+			[
+				"list",
+				"list-group\t bootstrap.min.css"
+			],
+			[
+				"lis",
+				"list-group\t bootstrap.min.css"
+			],
+			[
+				"li",
+				"list-group\t bootstrap.min.css"
+			],
+			[
+				"media-b",
+				"media-bottom\t bootstrap.min.css"
+			],
+			[
+				"media",
+				"media-middle\t bootstrap.min.css"
+			],
+			[
+				"medai",
+				"media-heading\t bootstrap.min.css"
+			],
+			[
+				"col",
+				"col-md-1\t bootstrap.min.css"
+			],
+			[
+				"pro",
+				"progress-striped\t bootstrap.min.css"
+			],
+			[
+				"progress-bar-",
+				"progress-bar-success\t bootstrap.min.css"
+			],
+			[
+				"progress-bar",
+				"progress-bar-striped\t bootstrap-theme.min.css"
+			],
+			[
+				"progress-",
+				"progress-bar\t bootstrap.min.css"
+			],
+			[
+				"append",
+				"appendTo\t.appendTo()"
+			],
+			[
+				"elem",
+				"elemento"
+			],
+			[
+				"ape",
+				"append\t.append()"
+			],
+			[
+				"alert",
+				"alerta\t(?)"
+			],
+			[
+				"ale",
+				"alerta\t(?)"
+			],
+			[
+				"a",
+				"attr〔function〕"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"aler",
+				"alert-link\t bootstrap.min.css"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"labe",
+				"label-primary\t bootstrap.min.css"
+			],
+			[
+				"pre",
+				"previous\t bootstrap.min.css"
+			],
+			[
+				"pa",
+				"pagination\t bootstrap.min.css"
+			],
+			[
+				"navbar",
+				"navbar-brand\t bootstrap.min.css"
+			],
+			[
+				"form-",
+				"form-group\t bootstrap.min.css"
+			],
+			[
+				"navbar-f",
+				"navbar-fixed-top\t bootstrap.min.css"
+			],
+			[
+				"form",
+				"form-control\t bootstrap.min.css"
+			],
+			[
+				"dropdown",
+				"dropdown-menu\t bootstrap-theme.min.css"
+			],
+			[
+				"data",
+				"data-toggle"
+			],
+			[
+				"dro",
+				"dropdown\t bootstrap.min.css"
+			],
+			[
+				"icon",
+				"icon-bar\t bootstrap.min.css"
+			],
+			[
+				"sr",
+				"sr-only\t bootstrap.min.css"
+			],
+			[
+				"navar-t",
+				"navbar-toggle\t bootstrap.min.css"
+			],
+			[
+				"cla",
+				"hasClass〔function〕"
+			],
+			[
+				"nav-",
+				"navbar-brand\t bootstrap.theme.min.css"
+			],
+			[
+				"glyphicon-pi",
+				"glyphicon-piggy-bank\t bootstrap.min.css"
+			],
+			[
+				"gly",
+				"glyphicon\t bootstrap.min.css"
+			],
+			[
+				"inpu",
+				"input-group\t bootstrap.min.css"
+			],
+			[
+				"di",
+				"disabled\t bootstrap-theme.min.css"
+			],
+			[
+				"inp",
+				"input-group-btn\t bootstrap.min.css"
+			],
+			[
+				"has-",
+				"has-warning\t bootstrap.min.css"
+			],
+			[
+				"from",
+				"form-control\t bootstrap.min.css"
+			],
+			[
+				"chec",
+				"checkbox\t bootstrap.min.css"
+			],
+			[
+				"input-group-",
+				"input-group-sm\t bootstrap.min.css"
+			],
+			[
+				"has",
+				"has-error\t bootstrap.min.css"
+			],
+			[
+				"for",
+				"form-control\t bootstrap.min.css"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"fro",
+				"form-group\t bootstrap.min.css"
+			],
+			[
+				"conte",
+				"container\t bootstrap.min.css"
+			],
+			[
+				"btn-gr",
+				"btn-group-sm\t bootstrap.min.css"
+			],
+			[
+				"btn-group-",
+				"btn-group-justified\t bootstrap.min.css"
+			],
+			[
+				"dropdown-me",
+				"dropdown-menu\t bootstrap.min.css"
+			],
+			[
+				"dropdown-",
+				"dropdown-toggle\t bootstrap.min.css"
+			],
+			[
+				"btn-g",
+				"btn-group-sm\t bootstrap.min.css"
+			],
+			[
+				"btn-gro",
+				"btn-group-lg\t bootstrap.min.css"
+			],
+			[
+				"dia",
+				"disabled\t bootstrap.min.css"
+			],
+			[
+				"dropdown-menu-",
+				"dropdown-menu-right\t bootstrap.min.css"
+			],
+			[
+				"dropdown-menu",
+				"dropdown-menu-left\t bootstrap.min.css"
+			],
+			[
+				"hi",
+				"hidden-md\t bootstrap.min.css"
+			],
+			[
+				"drop",
+				"dropdown\t estilos.min.css"
+			],
+			[
+				"btn-l",
+				"btn-lg\t bootstrap.min.css"
+			],
+			[
+				"alert-",
+				"alert-dismissable\t bootstrap.min.css"
+			],
+			[
+				"al",
+				"alert\t bootstrap.min.css"
+			],
+			[
+				"glyphicon-ex",
+				"glyphicon-exclamation-sign\t bootstrap.min.css"
+			],
+			[
+				"glyphicon-",
+				"glyphicon-duplicate\t bootstrap.min.css"
+			],
+			[
+				"btn-s",
+				"btn-success\t bootstrap.min.css"
+			],
+			[
+				"glyphicon-euro",
+				"glyphicon-sound-stereo\t bootstrap.min.css"
+			],
+			[
+				"glyphicon-eu",
+				"glyphicon-euro\t bootstrap.min.css"
+			],
+			[
+				"glyphicon-plus",
+				"glyphicon-plus-sign\t bootstrap.min.css"
+			],
+			[
+				"hidden-",
+				"hidden-print\t bootstrap.min.css"
+			],
+			[
+				"visible-md",
+				"visible-md-inline-block\t bootstrap.min.css"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pug/index.pug",
+			"settings":
+			{
+				"buffer_size": 3984,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_estilos.scss",
+			"settings":
+			{
+				"buffer_size": 4149,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6008,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/estilos.min.css",
+			"settings":
+			{
+				"buffer_size": 16801,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 102,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_fonts.scss",
+			"settings":
+			{
+				"buffer_size": 649,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "feh",
+		"selected_items":
+		[
+			[
+				"feh",
+				"Fetch: File"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"con",
+				"Convert Case: Lower Case"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"lose",
+				"Project: Close"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimr",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"pakc u",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"sys pu",
+				"Set Syntax: Pug"
+			],
+			[
+				"packa u",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"sys",
+				"Set Syntax: SCSS"
+			],
+			[
+				"PACKA",
+				"Package Control: Remove Package"
+			],
+			[
+				"SYS SA",
+				"Set Syntax: Sass"
+			],
+			[
+				"pac u",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"pak",
+				"Package Control: Discover Packages"
+			],
+			[
+				"readm",
+				"ReadmePlease"
+			],
+			[
+				"sys html",
+				"Set Syntax: HTML"
+			],
+			[
+				"emet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"emme",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"ream",
+				"Snippet: Plugin Readme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"paca u",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"ilorem",
+				"Snippet: ilorem_head_sp"
+			],
+			[
+				"sys sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"dele",
+				"CSS Completions: Delete Cache"
+			],
+			[
+				"pac us",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pack ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack use",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pack us",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"sys jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"pack u",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"delete",
+				"CSS Completions: Delete Cache"
+			],
+			[
+				"packa use",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"packa us",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"PACK US",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"PACK",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"htl",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Tcl)"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/D/Programador/Documentos/curriculo",
+		"/D/Programador/Documentos/curriculo/fonts",
+		"/D/Programador/Documentos/curriculo/js",
+		"/D/Programador/Documentos/curriculo/scss"
+	],
+	"file_history":
+	[
+		"/D/Programador/Documentos/curriculo/scss/estilos.min.scss",
+		"/D/Programador/Documentos/curriculo/js/pace-1.0.2.min.js",
+		"/D/Programador/Documentos/curriculo/js/jquery-3.2.2.min.js",
+		"/D/Programador/Documentos/curriculo/js/scroll-animado.js",
+		"/D/Programador/Documentos/curriculo/fonts/untitled-font-1/styles.css",
+		"/D/Programador/Documentos/curriculo/fonts/untitled-font-1/icons-reference.html",
+		"/D/Programador/Documentos/curriculo/scss/_flexbox-grid.scss",
+		"/D/Programador/Documentos/curriculo/scss/_procesos.scss",
+		"/D/Programador/Documentos/curriculo/js/particlesjs-config.json",
+		"/D/Programador/Documentos/curriculo/package.json",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/scss/estilos.min.scss",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/Compilar_sass.bat",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/Compilar_pug.bat",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/index.html",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/css/estilos.min.css",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/js/galaxy.js",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/js/StackBlur.js",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/js/p5.min.js",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/pug/index.pug",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/css/normalize.css",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/curriculo.sublime-workspace",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/scss/_flexbox-grid.scss",
+		"/C/Users/Felimar/Documents/Proyectos_Web/trucos_css_24/scss/_flexbox.scss",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/scss/flexboxgrid.css",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/scss/_variables.scss",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/SASS Snippets/README.md",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/scss/_estilos.scss",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Felimar/Documents/Proyectos_Web/curriculo/css/estilos.min.css.map",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Felimar/Documents/Proyectos_Web/trucos_css_24/scss/_variables.scss",
+		"/C/Users/Felimar/Documents/Proyectos_Web/trucos_css_24/scss/_estilos.scss",
+		"/C/Users/Felimar/Documents/Proyectos_Web/trucos_css_24/index.html",
+		"/C/Users/Felimar/Documents/Proyectos_Web/trucos_css_24/pug/index.pug",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Felimar/Documents/Proyectos_Web/Ambiente_Web.bat",
+		"/C/Users/Felimar/Documents/Proyectos_Web/npm-debug.log",
+		"/C/Users/Felimar/Documents/trucos_css_24/Compilar_pug.bat",
+		"/C/Users/Felimar/Documents/trucos_css_24/scss/_variables.scss",
+		"/C/Users/Felimar/Documents/trucos_css_24/css/estilos.min.css",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/Felimar/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Felimar/Documents/trucos_css_24/google.go",
+		"/C/Users/Felimar/Documents/trucos_css_24/packa.json",
+		"/C/Users/Felimar/Documents/trucos_css_24/ejemplo.php",
+		"/C/Users/Felimar/Documents/trucos_css_24/ccfd.sh",
+		"/C/Users/Felimar/Documents/trucos_css_24/imgen.jpg",
+		"/C/Users/Felimar/Documents/trucos_css_24/imagen2.png",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_24/Compilar_sass.bat",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_23/scss/_variables.scss",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_23/scss/_estilos.scss",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_23/pug/index.pug",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_22/scss/_variables.scss",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_22/scss/_estilos.scss",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_22/css/estilos.min.css",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_22/pug/index.pug",
+		"/D/Programador/Descargas/brazil/scss/style.scss",
+		"/D/Programador/Descargas/brazil/index.html",
+		"/D/Programador/Descargas/brazil/css/style.css",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_22/js/bandera.js",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_22/index.html",
+		"/D/Programador/Descargas/index.html",
+		"/D/Programador/Descargas/css/style.css",
+		"/D/Programador/Descargas/scss/style.scss",
+		"/D/Programador/Documentos/Curso_CSS/menu_dinamico_flexbox/pug/index.pug",
+		"/D/Programador/Documentos/Curso_CSS/menu_dinamico_flexbox/js/menu.js",
+		"/D/Programador/Documentos/Curso_CSS/menu_dinamico_flexbox/js/headroom.min.js",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_21/scss/_variables.scss",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_21/pug/index.pug",
+		"/D/Programador/Documentos/Curso_CSS/trucos_css_21/scss/_estilos.scss",
+		"/D/Programador/Documentos/Bootstrap/js/botones.js",
+		"/D/Programador/Documentos/Bootstrap/alerts.html",
+		"/D/Programador/Documentos/Bootstrap/affix.html",
+		"/F/README.html",
+		"/C/Users/programador/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/Programador/Documentos/Bootstrap/buttons.html",
+		"/D/Programador/Documentos/Bootstrap/grupo_botones.html",
+		"/D/Programador/Documentos/Bootstrap/sass/estilos_affix.scss",
+		"/D/Programador/Documentos/Bootstrap/collapse.html",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap.scss",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_code.scss",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_grid.scss",
+		"/D/Programador/Documentos/Bootstrap/Imagenes.html",
+		"/D/Programador/Documentos/Bootstrap/tab.html",
+		"/D/Programador/Documentos/Bootstrap/panels.html",
+		"/C/Users/programador/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/D/Programador/Documentos/Bootstrap/checkbox_radio.html",
+		"/D/Programador/Documentos/Bootstrap/navbar.html",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss",
+		"/D/Programador/Documentos/Bootstrap/js/checkbox_radio.js",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/mixins/_grid.scss",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_mixins.scss",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_buttons.scss",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_theme.scss",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_variables.scss",
+		"/D/Ruby23-x64/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_modals.scss",
+		"/D/Programador/Documentos/Bootstrap/js/alertas.js",
+		"/D/Programador/Documentos/Bootstrap/popovers.html",
+		"/D/Programador/Documentos/Bootstrap/sass/_estilos.sass",
+		"/D/Programador/Documentos/Bootstrap/tooltips.html",
+		"/D/Programador/Documentos/Bootstrap/tablas.html",
+		"/D/Programador/Documentos/Bootstrap/js/tablas.js",
+		"/D/Programador/Documentos/Bootstrap/css/estilos.min.css",
+		"/D/Programador/Documentos/Bootstrap/sass/estilos.min.sass",
+		"/C/Users/programador/AppData/Roaming/Sublime Text 3/Packages/Nettuts+ Fetch/README.md",
+		"/D/Programador/Documentos/Bootstrap/tipografia.html",
+		"/D/Programador/Documentos/Bootstrap/thumbnails.html",
+		"/D/Programador/Documentos/Bootstrap/scrollSpy.html",
+		"/D/Programador/Documentos/Bootstrap/progress_bars.html",
+		"/D/Programador/Documentos/Bootstrap/pagination.html",
+		"/D/Programador/Documentos/Bootstrap/page_header.html",
+		"/D/Programador/Documentos/Bootstrap/navs.html",
+		"/D/Programador/Documentos/Bootstrap/Modals.html",
+		"/D/Programador/Documentos/Bootstrap/media_object.html",
+		"/D/Programador/Documentos/Bootstrap/list_group.html",
+		"/D/Programador/Documentos/Bootstrap/labels.html",
+		"/D/Programador/Documentos/Bootstrap/jumbotron.html",
+		"/D/Programador/Documentos/Bootstrap/input_groups.html",
+		"/D/Programador/Documentos/Bootstrap/index.html",
+		"/D/Programador/Documentos/Bootstrap/iconos.html",
+		"/D/Programador/Documentos/Bootstrap/helper_classes.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"encabezado",
+			"caja",
+			"contenido",
+			"icon-",
+			"\"",
+			":before",
+			":",
+			"\"",
+			"fonts/",
+			"\"",
+			"carajo",
+			"conocimientos",
+			".carajo",
+			".circular",
+			"grafico",
+			"a(name=\"",
+			"estudios",
+			"hola",
+			"conocimientos",
+			".entrada",
+			"c-fondo2",
+			"-1",
+			".circular-progress",
+			".col-lg",
+			".col-lg.",
+			".circular-progress",
+			"detalle",
+			".estudios",
+			"estudios",
+			"col-lg-6",
+			".",
+			"container",
+			"nth($medida, 1)",
+			",1)",
+			"$medida",
+			"if",
+			"and",
+			".col-",
+			"#{$clase}",
+			"box-sizing: border-box",
+			"_",
+			"size",
+			"10",
+			"// &",
+			"//",
+			"&.",
+			"//",
+			":",
+			"{top:",
+			"p ",
+			"px",
+			"&.",
+			"xlarge",
+			"border",
+			"src",
+			"\"",
+			"border-radius",
+			" 50%",
+			"'",
+			"\"",
+			":",
+			"'",
+			"\"bottom",
+			"#bandeira h1 span.char1",
+			"\" title=",
+			"<li class=",
+			"xl",
+			"50% 50%",
+			"no-repeat",
+			"10",
+			"loading-example-btn",
+			"'#loading-example-btn'",
+			"loading-example-btn",
+			"botones.js",
+			"\"section",
+			"\"section1\"",
+			"Section",
+			"section",
+			"affix",
+			"lorem13",
+			"strong",
+			"grid",
+			"gris",
+			"src=\"data:image/svg",
+			"holder.js/1000",
+			"holder.js/900",
+			"collapseThree",
+			"headingThree",
+			"collapseTwo",
+			"headingTwo",
+			"p>",
+			"</label>",
+			"loading-example-btn",
+			";",
+			"}",
+			"{",
+			"right",
+			"e_Focus",
+			"e_",
+			"$('.btn-",
+			"e_",
+			"\">",
+			";",
+			"title=\"\"",
+			"btn-",
+			"trigger_",
+			"trigger",
+			"id=\"animacion\"",
+			"Animacion",
+			"animacion",
+			"();",
+			"https://code.jquery.com/jquery-3.1.0.min.js",
+			"data-toggle",
+			"();\n",
+			"data-toggle",
+			"tooltip",
+			"tab-pane",
+			"1",
+			"#dropdown",
+			"dropdown",
+			"Ejemplo2",
+			"home",
+			"tabs",
+			"tab",
+			"div",
+			"article",
+			".modal",
+			".modal("
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"https://code.jquery.com/jquery-1.12.4.min.js",
+			"/",
+			"'",
+			"Compilar_PUG.bat",
+			"pug",
+			"'",
+			"Compilar_JADE.bat",
+			"jade",
+			"'",
+			"/",
+			"-",
+			"animation",
+			"flexslider-icon",
+			"Pecita",
+			"Pesita",
+			"hgroup"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pug/index.pug",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								621
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Rich (SL).tmTheme",
+							"history_list_is_closing": true,
+							"spell_check": false,
+							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scss/_estilos.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1587,
+								1587
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1643,
+										1644
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.curly"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1562,
+										1563
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Rich (SL).tmTheme",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1785.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1159,
+								1159
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1157,
+										1158
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.tag"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1125,
+										1126
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Rich II.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/estilos.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								622,
+								622
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										643,
+										644
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.curly"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										602,
+										603
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Rich (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "scss/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Rich (SL).tmTheme",
+							"history_list_is_closing": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scss/_fonts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								274
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										274,
+										275
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.quote"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										264,
+										265
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Rich II.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.683421240893,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curriculo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"esti",
+				"scss\\estilos.min.scss"
+			],
+			[
+				"es",
+				"scss\\estilos.min.scss"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"v",
+				"scss\\_variables.scss"
+			],
+			[
+				"va",
+				"scss\\_variables.scss"
+			],
+			[
+				"s",
+				"scss\\_estilos.scss"
+			],
+			[
+				"pg",
+				"pug\\index.pug"
+			],
+			[
+				"bu",
+				"buttons.html"
+			],
+			[
+				"botonhtml",
+				"grupo_botones.html"
+			],
+			[
+				"but",
+				"buttons.html"
+			],
+			[
+				"im",
+				"Imagenes.html"
+			],
+			[
+				"tab",
+				"tab.html"
+			],
+			[
+				"panel",
+				"panels.html"
+			],
+			[
+				"rad",
+				"checkbox_radio.html"
+			],
+			[
+				"bo",
+				"js\\botones.js"
+			],
+			[
+				"aler",
+				"js\\alertas.js"
+			],
+			[
+				"_e",
+				"sass\\_estilos.sass"
+			],
+			[
+				"_es",
+				"sass\\_estilos.sass"
+			],
+			[
+				"ta.html",
+				"tablas.html"
+			],
+			[
+				"ta",
+				"js\\tablas.js"
+			],
+			[
+				"_",
+				"sass\\_estilos.sass"
+			],
+			[
+				"esti.sass",
+				"sass\\estilos.min.sass"
+			],
+			[
+				"modal",
+				"Modals.html"
+			],
+			[
+				"tablas",
+				"js\\tablas.js"
+			],
+			[
+				"vari",
+				"sass\\_variables.sass"
+			],
+			[
+				"main",
+				"sass\\main.sass"
+			],
+			[
+				"sl",
+				"js\\slider_img.js"
+			],
+			[
+				"est",
+				"sass\\_estilos.sass"
+			],
+			[
+				"ian",
+				"sass\\main.sass"
+			],
+			[
+				"ma",
+				"sass\\main.sass"
+			],
+			[
+				"estilo",
+				"sass\\_estilos.sass"
+			],
+			[
+				"js",
+				"js\\menu_acordion.js"
+			],
+			[
+				".js",
+				"js\\menu_acordion.js"
+			],
+			[
+				"mian",
+				"sass\\main.sass"
+			],
+			[
+				"mai",
+				"sass\\main.sass"
+			],
+			[
+				"for",
+				"js\\formulario.js"
+			],
+			[
+				"_v",
+				"sass\\_variables.sass"
+			],
+			[
+				"var",
+				"sass\\_variables.sass"
+			],
+			[
+				"_fle",
+				"sass\\_flexbox.sass"
+			],
+			[
+				"_flex",
+				"sass\\_flexbox.sass"
+			],
+			[
+				"m",
+				"sass\\main.sass"
+			],
+			[
+				"",
+				"/C/Users/eperalta/Desktop/Index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Programador\\Documentos\\Curso_CSS\\trucos_css_26_PACE\\trucos_css_26_PACE.sublime-project"
+			],
+			[
+				"pace",
+				"D:\\Programador\\Documentos\\Curso_CSS\\trucos_css_26_PACE\\trucos_css_26_PACE.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".col",
+				".col-lg-1.circular-progress.html"
+			],
+			[
+				".col-lg",
+				".col-lg-6"
+			],
+			[
+				"",
+				"between-lg"
+			],
+			[
+				"col",
+				"col-lg-1"
+			],
+			[
+				"con",
+				".container"
+			]
+		],
+		"width": 360.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

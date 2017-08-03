@@ -1,0 +1,276 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  // outline: 1px solid red;
+  padding: 0;
+}
+
+body {
+  background-image: url('../img/fondo.png');
+  background-size: cover;
+  color: $c-texto;
+  font-family: 'Roboto', sans-serif;
+}
+
+.saludo,
+.estudios,
+.conocimientos {
+  height: 100vh;
+}
+
+.caja {
+  background: $c-fondo;
+  box-shadow: 5px 5px 5px $c-caja;
+  padding: .5em;
+
+  p {
+    font-weight: bold;
+  }
+}
+
+.entrada {
+  font-size: 3em;
+
+  p {
+    font-family: 'Courgette';
+  }
+}
+
+.estudios {
+
+  h2 {
+    border-left: 3px solid $c-borde;
+    margin-bottom: .5em;
+    padding-left: .5em;
+  }
+}
+
+.menu {
+  align-self: center;
+  height: 5vh;
+  padding: 0 1em;
+  position: fixed;
+  z-index: 1000;
+
+  a {
+    background: $c-fondo;
+    color: $c-texto;
+    padding: .2em .5em;
+    text-decoration: none;
+
+    &:hover {
+      background: $c-menu;
+    }
+
+    &:last-child {
+      border-radius: 0 0 10px 0;
+    }
+
+    &:first-child {
+      border-radius: 0 0 0 10px;
+    }
+  }
+}
+
+.nombre {
+  display: flex;
+  flex-direction: column;
+
+  a {
+    border-radius: 50%;
+    color: $c-texto;
+    font-size: 1.5em;
+    text-decoration: none;
+  }
+
+  h2 {
+    font-family: 'Courgette';
+  }
+
+  img {
+    border-radius: 50%;
+    margin: .5em 0;
+  }
+}
+
+.particulas {
+  filter: blur(2px);
+  height: 380vh;
+  position: absolute;
+  width: 98vw;
+  z-index: -1000;
+}
+
+//--------------------- Graficos --------------------------------------------------------------------------------
+.circular-progress {
+  margin: auto;
+  position: relative;
+
+  &,
+  &::before,
+  &::after {
+    border-radius: 50%;
+    height: 6rem; //12rem;
+    width: 6rem; //12rem;
+  }
+
+  &::before,
+  &::after {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+  }
+
+  &::before {
+    box-sizing: border-box;
+    font-size: 1rem; //2rem;
+    line-height: 4rem; //8rem;
+    padding: .25em; //.5em;
+  }
+
+  &::after {
+    line-height: 6.5rem; //13rem;
+  }
+}
+
+.html {
+  @include circular-progreso(100, 'html 5', orange, $c-fondo);
+}
+
+.css {
+  @include circular-progreso(100, 'css 3', lighten(blue, 20), $c-fondo);
+}
+
+.javescript {
+  @include circular-progreso(90, 'javescript', yellow, $c-fondo);
+}
+
+.jquery {
+  @include circular-progreso(90, 'JQuery', goldenRod, $c-fondo);
+}
+
+.php {
+  @include circular-progreso(100, 'php', aqua, $c-fondo);
+}
+
+.delphi {
+  @include circular-progreso(100, 'Delphi', red, $c-fondo);
+}
+
+.sql {
+  @include circular-progreso(80, 'sql', darkgoldenrod, $c-fondo);
+}
+
+.oracle {
+  @include circular-progreso(100, 'oracle', darkred, $c-fondo);
+}
+
+.pervasive {
+  @include circular-progreso(100, 'pervasive', darkslateblue, $c-fondo);
+}
+
+.db2 {
+  @include circular-progreso(90, 'db2', lime, $c-fondo);
+}
+
+.mysql {
+  @include circular-progreso(100, 'mysql', indigo, $c-fondo);
+}
+
+.sass {
+  @include circular-progreso(100, 'sass', pink, $c-fondo);
+}
+
+.pug {
+  @include circular-progreso(100, 'pug', peru, $c-fondo);
+}
+
+.devexpress {
+  @include circular-progreso(100, 'devexpres', maroon, $c-fondo);
+}
+
+.linux {
+  @include circular-progreso(100, 'linux', khaki, $c-fondo);
+}
+
+.windows {
+  @include circular-progreso(100, 'windows', orange, $c-fondo);
+}
+
+//-------------------- Iconos ------------------------------------------------------------------------------
+[class^='icon-']::before,
+[class*=' icon-']::before {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'fontastic' !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  font-weight: normal !important;
+  line-height: 1;
+  speak: none;
+  text-transform: none !important;
+}
+
+.icon {
+
+  &-envelope {
+
+    &:hover {
+      color: lime;
+    }
+
+    &::before {
+      content: '\62';
+    }
+  }
+
+
+  &-twitter {
+
+    &:hover {
+      color: aqua;
+    }
+
+    &::before {
+      content: '\63';
+    }
+  }
+
+  &-github {
+
+    &:hover {
+      color: #000;
+    }
+
+    &::before {
+      content: '\64';
+    }
+  }
+
+  &-linkedin {
+
+    &:hover {
+      color: darkslateblue;
+    }
+
+    &::before {
+      content: '\61';
+    }
+  }
+
+  &-facebook {
+
+    &:hover {
+      color: blue;
+    }
+
+    &::before {
+      content: '\65';
+    }
+  }
+}
+
+

@@ -1,0 +1,146 @@
+// Parámetros
+$columna: 12;
+$lis-medidas: xs 0, sm 48, md 64, lg 75;
+// sm 48em49rem / md 64em65rem / lg 75em76rem
+
+// Propiedades para todas las columnas
+@mixin columnas-generales($medida) {
+  $clases: '';
+
+  @for $j from 1 through 2 {
+    @for $i from 0 through $columna {
+      @if ($i == 0) and ($j == 1) {
+        $clases: '.col-' + unquote(#{$medida});
+      } @else {
+        @if $j == 1 {
+          $clases: $clases + ', .col-' + unquote(#{$medida}-#{$i});
+        } @else {
+          $clases: $clases + ', .col-' + unquote(#{$medida}-offset-#{$i});
+        }
+      }
+    }
+  }
+
+  #{$clases} {
+    flex: 0 0 auto;
+    padding: 0 .5rem;
+  }
+}
+
+// Alinear Elementos
+@mixin alinear-fila($tipo, $medida, $valor) {
+  .#{$tipo}-#{$medida} {
+    justify-content: #{$valor};
+    text-align: #{$tipo};
+  }
+}
+
+@mixin alinear-columna($tipo, $medida, $valor) {
+  .#{$tipo}-#{$medida} {
+    align-items: $valor;
+  }
+}
+
+// Distribución
+@mixin distribucion($tipo, $medida, $valor) {
+  .#{$tipo}-#{$medida} {
+    justify-content: $valor;
+  }
+}
+
+// Orden
+@mixin orden($tipo, $medida, $valor) {
+  .#{$tipo}-#{$medida} {
+    order: $valor;
+  }
+}
+
+// Contenido para diseño responsable web
+@mixin contenido-general($medida) {
+  @include columnas-generales($medida);
+
+  .col {
+    // tamaño columnas normales
+    @for $i from 0 through $columna {
+      @if $i == 0 {
+        &-#{$medida} {
+          flex-basis: 0;
+          flex-grow: 1;
+          max-width: 100%;
+        }
+      } @else {
+        &-#{$medida}-#{$i} {
+          flex-basis: unquote((100 / $columna) * $i+'%');
+          max-width: unquote((100 / $columna) * $i+'%');
+        }
+      }
+    }
+
+    // tamaño columnas offset
+    @for $i from 0 through $columna {
+      &-#{$medida}-offset-#{$i} {
+        margin-left: unquote((100 / $columna) * $i+'%');
+      }
+    }
+  }
+
+  @include alinear-fila(start, $medida, flex-start);
+  @include alinear-fila(center, $medida, center);
+  @include alinear-fila(end, $medida, flex-end);
+
+  @include alinear-columna(top, $medida, flex-start);
+  @include alinear-columna(middle, $medida, center);
+  @include alinear-columna(bottom, $medida, flex-end);
+
+  @include distribucion(around, $medida, space-around);
+  @include distribucion(between, $medida, space-between);
+
+  @include orden(first, $medida, -1);
+  @include orden(last, $medida, 1);
+}
+
+// Contenido Principal
+.container {
+  margin: 0 auto;
+
+  &-fluid {
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+}
+
+.row {
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0 -.5rem;
+
+  &.reverse {
+    flex-direction: row-reverse;
+  }
+}
+
+
+.col {
+  &.reverse {
+    flex-direction: column-reverse;
+  }
+}
+
+@each $medida in $lis-medidas {
+
+  @if nth($medida, 1) == xs {
+    @include contenido-general(nth($medida, 1));
+
+  } @else {
+
+    @media only screen and (min-width: unquote(nth($medida, 2)+'em')) {
+      .container {
+        width: unquote((nth($medida, 2)+1)+'rem');
+      }
+
+      @include contenido-general(nth($medida, 1));
+    }
+  }
+}

@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Courgette';
+  src: url('../fonts/Courgette/Courgette-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'fontastic';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/fontastic/fontastic.eot');
+  src: url('../fonts/fontastic/fontastic.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/fontastic/fontastic.woff') format('woff'),
+  url('../fonts/fontastic/fontastic.ttf') format('truetype'),
+  url('../fonts/fontastic/fontastic.svg#untitled-font-1') format('svg');
+}

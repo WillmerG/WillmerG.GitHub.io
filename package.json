@@ -1,0 +1,29 @@
+{
+	"//": "------------------------------------------",
+	"//": " Genral Package.json settings             ",
+	"//": "------------------------------------------",
+	"name"  : "Compilador-pug-sass",
+	"version": "3.1.0",
+	"description": "Compilador de PUG y SASS ",
+	"contributors": [
+		{
+			"name": "Willmer Gonzalez",
+			"email": "willmer2911@gmail.com"
+		}
+	],
+	"devDependencies": {
+		"node-sass"  :"latest",
+		"pug"        :"latest",
+		"npm-run-all":"latest"
+	},
+	"//": "------------------------------------------",
+	"//": "              NPM tasks                   ",
+	"//": " Usage: npm run compile: sass y pug       ",
+	"//": "------------------------------------------",
+	"scripts": {
+		"pug": "pug -w pug/ -P -o .",
+		"pug-o": "pug -w pug/ -P -O pug/opciones.json -o .",
+		"pug-php": "pug -w pug/ -P -E php -o .",
+		"pug-php-o": "pug -w pug/ -P -E php -O pug/opciones.json -o ."
+	}
+}
