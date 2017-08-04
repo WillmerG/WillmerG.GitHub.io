@@ -17,7 +17,7 @@ $(document).ready(function() {
 	});
 
 	// ejemplo: http://blog.grayghostvisuals.com/js/detecting-scroll-position/
-	var inicio = $('#inicio').height();
+	var inicio = $('#conocimientos').height();
 	console.log('Voy 1: ' + inicio);
 
 	function Activar_Animacion() {
@@ -25,8 +25,8 @@ $(document).ready(function() {
 		var scroll_top = $(window).scrollTop();
 
 		if (scroll_top >= inicio) {
-			$('.entrada').addClass('.fadeInUp.animated');
-			console.log('carajo');
+			$('.conocimientos').addClass('.fadeInUp.animated');
+			console.log('carajo: '+ scroll_top);
 		} else {}
 	}
 
