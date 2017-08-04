@@ -1,11 +1,11 @@
 /* TEAM */
-	Author: Willmer Gonzalez
+	Author: Willmer González
 	Contact: willmer2911@gmail.com
 	Twitter: @willmer2911
 	From: Caracas Venezuela
 
 /* SITE */
-	Last update: 2017/06/11
+	Last update: 2017/08/04
 	Language: English / Castellano
 	Doctype: HTML5
-	IDE: Sublime Text3, FireBug, FireFTP, scss, Bootstrap
+	Technology: Sublime Text3, FireBug, Git, SCSS, PUG
