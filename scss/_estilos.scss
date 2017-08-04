@@ -145,11 +145,11 @@ body {
 }
 
 .javescript {
-  @include circular-progreso(90, 'javescript', yellow, $c-fondo);
+  @include circular-progreso(100, 'javescript', yellow, $c-fondo);
 }
 
 .jquery {
-  @include circular-progreso(90, 'JQuery', goldenRod, $c-fondo);
+  @include circular-progreso(100, 'JQuery', goldenRod, $c-fondo);
 }
 
 .php {
@@ -161,7 +161,7 @@ body {
 }
 
 .sql {
-  @include circular-progreso(80, 'sql', darkgoldenrod, $c-fondo);
+  @include circular-progreso(90, 'sql', darkgoldenrod, $c-fondo);
 }
 
 .oracle {
