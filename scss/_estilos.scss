@@ -7,22 +7,6 @@
   padding: 0;
 }
 
-// @import 'pace/utility';
-// @import 'pace/loading_bar';
-// @import 'pace/minimal';
-// @import 'pace/flash';
-// @import 'pace/barber_shop';
-// @import 'pace/mac_osx';
-// @import 'pace/fill_left';
-// @import 'pace/flat_top';
-// @import 'pace/big_counter';
-// @import 'pace/corner_indicator';
-// @import 'pace/bounce';
-// @import 'pace/center_circle';
-// @import 'pace/center_atom';
-// @import 'pace/center_radar';
-// @import 'pace/center_simple';
-
 body {
   background-image: url('../img/fondo.png');
   background-size: cover;
@@ -47,7 +31,6 @@ body {
 }
 
 .container {
-  // display: none;
   overflow: hidden;
 }
 
@@ -77,20 +60,22 @@ body {
 
   a {
     background: $c-fondo;
-    box-shadow: 5px 5px 5px $c-borde-menu;
+    border-bottom: 1px solid $c-borde-menu;
     color: $c-texto;
     padding: .3em .5em;
     text-decoration: none;
 
     &:hover {
-      background: $c-menu;
+      box-shadow: 0px 0px 5px $c-borde inset;
     }
 
     &:last-child {
       border-radius: 0 0 10px 0;
+      border-right: 1px solid $c-borde-menu;
     }
 
     &:first-child {
+      border-left: 1px solid $c-borde-menu;
       border-radius: 0 0 0 10px;
     }
   }
