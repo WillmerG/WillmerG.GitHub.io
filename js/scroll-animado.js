@@ -17,19 +17,45 @@ $(document).ready(function() {
 	});
 
 	// ejemplo: http://blog.grayghostvisuals.com/js/detecting-scroll-position/
-	var inicio = $('#conocimientos').height();
-	console.log('Voy 1: ' + inicio);
+	var
+		inicio = $('#inicio').position().top,
+		conocimientos = $('#conocimientos').position().top,
+		estudios = $('#estudios').position().top,
+		experiencia = $('#experiencia').position().top;
 
 	function Activar_Animacion() {
-		console.log('Voy 2');
 		var scroll_top = $(window).scrollTop();
 
-		if (scroll_top >= inicio) {
-			$('.conocimientos').addClass('.fadeInUp.animated');
-			console.log('carajo: '+ scroll_top);
-		} else {}
+		// animar el inicio
+		// if ((scroll_top >= 0) && (scroll_top <= (conocimientos - inicio)))  {
+		// 	$('.entrada').addClass('fadeInLeft animated');
+		// 	$('.nombre').addClass('zoomInRight animated');
+		// } else {
+		// 	$('.entrada').removeClass('fadeInLeft animated');
+		// 	$('.nombre').removeClass('zoomInRight animated');
+		// }
+
+		// Animar conocimientos
+		if ((scroll_top >= conocimientos) && (scroll_top < estudios)) {
+			$('.conocimientos').removeClass('fadeOutRight');
+			$('.conocimientos').addClass('fadeInLeft');
+		}
+
+		// Animar Estudios
+		console.log('top: ' + scroll_top +' valor: '+ estudios + ' Valor 2: '+ experiencia);
+		if ((scroll_top >= estudios) && (scroll_top < experiencia)) {
+			$('#estudios1').removeClass('rotateOutDownLeft');
+			$('#estudios1').addClass('rotateInDownLeft');
+			$('#estudios2').removeClass('rotateOutDownRight');
+			$('#estudios2').addClass('rotateInDownRight');
+		}
+
+		// Animar Experiencia
+		if (scroll_top >= (experiencia - inicio)) {
+			$('#experiencia .caja').removeClass('flipOutX');
+			$('#experiencia .caja').addClass('flipInX');
+		}
 	}
 
 	$(window).scroll(Activar_Animacion);
-	console.log('Voy 3');
 });

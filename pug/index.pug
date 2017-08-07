@@ -18,26 +18,24 @@ html(lang="en")
 		link(rel="stylesheet" type="text/css" href="css/estilos.min.css")
 
 		script(type="text/javascript" src="js/jquery-3.2.2.min.js")
-		script(type='text/javascript' src='js/pace-1.0.2.min.js')
-
 		script(type='text/javascript' src='js/scroll-animado.js')
 
 	body
 		#particles-js.particulas
 		main.container
 
-			#inicio
 			nav.row.menu
 				a(href="#inicio") Inicio
 				a(href="#conocimientos") Conocimientos
 				a(href="#estudios") Estudios
 				a(href="#experiencia") Experiencia
 				//- a(href="#") Proyectos
-			header.row.between-lg.middle-lg.saludo
+			header#inicio.row.between-lg.middle-lg.saludo
 				.col-lg-9.center-lg.entrada
 					p Hola bienvenido a mi pagina web
 					p (Desarrollador Delphi y Web)
-				.col-lg-3.nombre.fadeInRight.animated
+				//- .fadeInRight.animated
+				.col-lg-3.nombre
 					h2.center-lg.
 						Willmer González
 						willmer2911@gmail.com
@@ -49,9 +47,9 @@ html(lang="en")
 						a(href="https://www.linkedin.com/in/willmer-gonz%C3%A1lez-a8b71995/" target="blank").col-lg.icon-linkedin
 						//- a(href="").col-lg.icon-facebook
 
-			#conocimientos
 				//- .slideInDown.animated
-			aside.row.conocimientos
+			#conocimientos
+			aside.row.conocimientos.fadeOutRight.animated
 				h1.col-lg-12.center-lg Conocimientos
 
 				h2.col-lg-12.center-lg Lenguajes de Programación
@@ -92,37 +90,35 @@ html(lang="en")
 				.col-lg
 					.circular-progress.windows
 
-			#estudios
-			aside.row.estudios
+			aside#estudios.row.estudios
 				h1.col-lg-12.center-lg Estudios
 				article.col-lg-6
-					.caja
+					#estudios1.caja.rotateOutDownLeft.animated
 						h2 Instituto Universitario de Administración Industrial (IUTA) Caracas, Distrito Capital
 						p Técnico Superior en Informática
 						p Periodo: 2002 – 2005
 				article.col-lg-6
-					.caja
+					#estudios2.caja.rotateOutDownRight.animated
 						h2 Unidad Educativa Nacional 25 de Julio Caracas, Distrito Capital
 						p Titulo: Bachiller en Informática
 						p Periodo: 1997 - 2002
 
-			#experiencia
-			aside.row.estudios
+			aside#experiencia.row.estudios
 				h1.col-lg-12.center-lg Experiencia Laboral
 				article.col-lg-6
-					.caja
+					.caja.flipOutX.animated
 						h2 Actividad: Desarrollo de aplicaciones y mejoras a los sistemas de control de títulos y acciones de valores
 						p Puesto: Desarrollador Delphi
 						p Empresa: LA Sistemas
 						p Periodo: 02/02/2006 – laborando actualmente
 				article.col-lg-6
-					.caja
+					.caja.flipOutX.animated
 						h2 Actividad: Mejoras en el sistema Web de Inventario de equipos de telecomunicaciones
 						p Puesto: Pasante desarrollador web
 						p Empresa: Comandancia General de la Armada de la República de Venezuela
 						p Periodo: 20/04/2005 – 15/06/2005
 				article.col-lg-6
-					.caja
+					.caja.flipOutX.animated
 						h2 Actividad: Ayudante en el área de inventario
 						p Puesto: Pasante
 						p Empresa: Centro de Estudios Superiores de Auditoria de Estado (FUNDACEA)
@@ -131,5 +127,5 @@ html(lang="en")
 		script(type='text/javascript' src='js/particles.min.js')
 		script(type='text/javascript').
 			particlesJS.load('particles-js', 'js/particlesjs-config.json', function() {
-				console.log('callback - particles.js config loaded');
+				console.log('Cargado Exitosamente el archivo: "js/particlesjs-config.json" ');
 			});

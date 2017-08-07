@@ -14,20 +14,18 @@
     <link rel="stylesheet" type="text/css" href="css/animate.min.3.5.2.css"/>
     <link rel="stylesheet" type="text/css" href="css/estilos.min.css"/>
     <script type="text/javascript" src="js/jquery-3.2.2.min.js"></script>
-    <script type="text/javascript" src="js/pace-1.0.2.min.js"></script>
     <script type="text/javascript" src="js/scroll-animado.js"></script>
   </head>
   <body>
     <div class="particulas" id="particles-js"></div>
     <main class="container">
-      <div id="inicio"></div>
       <nav class="row menu"><a href="#inicio">Inicio</a><a href="#conocimientos">Conocimientos</a><a href="#estudios">Estudios</a><a href="#experiencia">Experiencia</a></nav>
-      <header class="row between-lg middle-lg saludo">
+      <header class="row between-lg middle-lg saludo" id="inicio">
         <div class="col-lg-9 center-lg entrada">
           <p>Hola bienvenido a mi pagina web</p>
           <p>(Desarrollador Delphi y Web)</p>
         </div>
-        <div class="col-lg-3 nombre fadeInRight animated">
+        <div class="col-lg-3 nombre">
           <h2 class="center-lg">
             Willmer González
             willmer2911@gmail.com
@@ -36,7 +34,7 @@
         </div>
       </header>
       <div id="conocimientos"></div>
-      <aside class="row conocimientos">
+      <aside class="row conocimientos fadeOutRight animated">
         <h1 class="col-lg-12 center-lg">Conocimientos</h1>
         <h2 class="col-lg-12 center-lg">Lenguajes de Programación</h2>
         <div class="col-lg">
@@ -90,29 +88,27 @@
           <div class="circular-progress windows"></div>
         </div>
       </aside>
-      <div id="estudios"></div>
-      <aside class="row estudios">
+      <aside class="row estudios" id="estudios">
         <h1 class="col-lg-12 center-lg">Estudios</h1>
         <article class="col-lg-6">
-          <div class="caja">
+          <div class="caja rotateOutDownLeft animated" id="estudios1">
             <h2>Instituto Universitario de Administración Industrial (IUTA) Caracas, Distrito Capital</h2>
             <p>Técnico Superior en Informática</p>
             <p>Periodo: 2002 – 2005</p>
           </div>
         </article>
         <article class="col-lg-6">
-          <div class="caja">
+          <div class="caja rotateOutDownRight animated" id="estudios2">
             <h2>Unidad Educativa Nacional 25 de Julio Caracas, Distrito Capital</h2>
             <p>Titulo: Bachiller en Informática</p>
             <p>Periodo: 1997 - 2002</p>
           </div>
         </article>
       </aside>
-      <div id="experiencia"></div>
-      <aside class="row estudios">
+      <aside class="row estudios" id="experiencia">
         <h1 class="col-lg-12 center-lg">Experiencia Laboral</h1>
         <article class="col-lg-6">
-          <div class="caja">
+          <div class="caja flipOutX animated">
             <h2>Actividad: Desarrollo de aplicaciones y mejoras a los sistemas de control de títulos y acciones de valores</h2>
             <p>Puesto: Desarrollador Delphi</p>
             <p>Empresa: LA Sistemas</p>
@@ -120,7 +116,7 @@
           </div>
         </article>
         <article class="col-lg-6">
-          <div class="caja">
+          <div class="caja flipOutX animated">
             <h2>Actividad: Mejoras en el sistema Web de Inventario de equipos de telecomunicaciones</h2>
             <p>Puesto: Pasante desarrollador web</p>
             <p>Empresa: Comandancia General de la Armada de la República de Venezuela</p>
@@ -128,7 +124,7 @@
           </div>
         </article>
         <article class="col-lg-6">
-          <div class="caja">
+          <div class="caja flipOutX animated">
             <h2>Actividad: Ayudante en el área de inventario</h2>
             <p>Puesto: Pasante</p>
             <p>Empresa: Centro de Estudios Superiores de Auditoria de Estado (FUNDACEA)</p>
@@ -140,7 +136,7 @@
     <script type="text/javascript" src="js/particles.min.js"></script>
     <script type="text/javascript">
       particlesJS.load('particles-js', 'js/particlesjs-config.json', function() {
-      	console.log('callback - particles.js config loaded');
+      	console.log('Cargado Exitosamente el archivo: "js/particlesjs-config.json" ');
       });
     </script>
   </body>
